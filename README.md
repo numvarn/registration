@@ -22,7 +22,9 @@ For my students to use this web application prototype to develope their final ye
 ### Database
 
 db name : registration
+
 user : web
+
 pass : web
 
 this web application is using PHP 7.3.8 and MySQL 5.x
